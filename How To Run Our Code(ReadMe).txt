@@ -1,4 +1,4 @@
-Steps to run our code
+Steps to run my code
 
 
 -->Copy(Ctrl+C) from the file where you cloned.
